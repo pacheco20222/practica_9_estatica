@@ -38,3 +38,11 @@ Puedes instalarlas con:
 
 ```bash
 pip install matplotlib numpy
+```
+
+📚 Créditos
+Práctica realizada por el equipo:
+Pedro Guillermo Moguel Vela, Jose Ricardo Pacheco Chanico, Helena Isabel Correa Sandoval, Fátima Guadalupe Navas Ramírez, Valentina Ordóñez Gutiérrez
+
+Profesor: Marco Antonio Reyes García
+Universidad Anáhuac Mayab – Ingeniería en Tecnologías de la Información
